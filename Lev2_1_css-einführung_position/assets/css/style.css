@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Poppins:wght@200&display=swap');
+
+
+*{
+    margin:0;
+    padding:0;
+}
+span{
+    font-size: 60px;
+}
+body{
+    height:100vh;
+    background-color: rgb(237, 241, 227);
+
+  
+}
+section{
+    height: 100vh;
+    background: url(https://cdn.dribbble.com/users/1789165/screenshots/6819197/attachments/1455528/____.png) no-repeat;
+    background-size: 900px;
+    background-position: 600px 20px;
+}
+p{
+    position: absolute;
+    top: 52%;
+    left: 150px;
+    width: 400px;
+    font-size: 1.2em;  
+}
+
+a {
+    padding: 10px 50px;
+    border-radius: 5px;
+    background: orange;
+    color: black;
+    position: absolute;
+    bottom: 26%;
+    left: 150px;
+    text-decoration: none;
+}
+h1:nth-of-type(1){
+    position: absolute;
+    top: 40%;
+    left: 150px;
+    width: 400px;
+    font-size: 1.2em;  
+}
+h1:nth-of-type(2){
+    position: absolute;
+    top: 34%;
+    left: 150px;
+    width: 400px;
+    font-size: 1.2em;  
+}
+
+
+
+
+
